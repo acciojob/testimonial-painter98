@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.author{
+	margin-left:75Vw;
+}
+h1{
+	margin-left:5Vw;
+	padding:0.2vw;
+}
+.para{
+	padding:0.2vw;
+	background-color:white;
+	margin:5vw;
+}
+.container{
+	background-color: #f5f5f5;
+	padding:1vw;
+}
